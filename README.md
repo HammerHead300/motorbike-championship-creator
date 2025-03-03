@@ -1,5 +1,5 @@
 # motorbike championship creator
- Base backend for creating a visual database for custom motorbike championships
+Backend for creating a visual database for custom motorbike championships
 
 ## Initial setup
 This app requires for an actual database system to create the database so the app can create the different tables on it.
